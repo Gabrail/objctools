@@ -1,4 +1,4 @@
 objctools
 =========
 
-Snnipets for IOS Programming
+Snippets for IOS Programming
