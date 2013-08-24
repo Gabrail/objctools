@@ -1,4 +1,3 @@
-
 //ios6 only
 -(void) addRefreshControll{
 
