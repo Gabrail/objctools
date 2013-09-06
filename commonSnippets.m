@@ -15,7 +15,7 @@ pasteboard.string = string;
 
 //Take Screenshot Programmatically
 
--(void) tajeScreenShot {
+-(void) takeScreenShot {
 
 UIGraphicsBeginImageContext(self.view.bounds.size);
 [self.view.window.layer renderInContext:UIGraphicsGetCurrentContext()];
